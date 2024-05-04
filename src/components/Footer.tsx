@@ -5,10 +5,10 @@ import AppMedia from './AppMedia'
 
 function Footer() {
   return (
-    <div className='flex justify-between items-center'>
-      <div className='max-w-[1472px] w-[100%] mx-auto px-4 flex justify-between items-center'>
-        <div className='flex items-center space-x-10'>
-          <span>© Creon 2023. All rights reserved.</span>
+    <div className='flex justify-between items-center py-[15px] bg-transparent absolute w-full bottom-0 z-10'>
+      <div className='max-w-[1472px] w-[100%] mx-auto px-4 flex justify-between items-center md:flex-row flex-col lg:gap-0 gap-3'>
+        <div className='flex items-center space-x-10 md:flex-row flex-col lg:gap-0 gap-3'>
+          <span className='mx-5'>© Creon 2023. All rights reserved.</span>
           <AppMedia />
         </div>
         <div className='flex items-center'>

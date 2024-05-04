@@ -18,7 +18,6 @@ export default function RootLayout({
       <body className={'text-Satoshi'}>
         <Header />
         {children}
-        <Footer />
       </body>
     </html>
   );

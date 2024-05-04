@@ -9,4 +9,10 @@ import earning from '@/assets/earning.png';
 import launching from '@/assets/launching.png';
 import limitless from '@/assets/limitless.png';
 import blog1 from '@/assets/blog1.png';
-export { logo, niftablesLogo, telegram, discord, twitter, vision, growth, earning, launching, limitless, blog1 } 
+import barImg from '@/assets/barImg.png';
+import creonLogo from '@/assets/CREON_logo.png';
+import mainBackgroundImg from '@/assets/main-background-img.png';
+import nft from '@/assets/nft.png';
+import roadmapImg from '@/assets/roadmap-img.png';
+
+export { logo, niftablesLogo, telegram, discord, twitter, vision, growth, earning, launching, limitless, blog1, barImg, creonLogo, mainBackgroundImg, nft, roadmapImg } 
