@@ -1,4 +1,3 @@
-import { earning, growth, launching, limitless, vision, creonLogo, mainBackgroundImg, nft, roadmapImg } from "@/assets";
 import Accordion from "@/components/Accordion";
 import AppImage from "@/components/AppImage";
 import BackgroundImage from "@/components/BackgroundImage";
@@ -6,6 +5,7 @@ import Banner from "@/components/Banner";
 import BlockBox from "@/components/BlockBox";
 import BlogBox from "@/components/BlogBox";
 import Footer from "@/components/Footer";
+import { earning, growth, launching, limitless, vision, creonLogo, nft } from "@/assets";
 export default function Home() {
   return (
     <>

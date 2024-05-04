@@ -1,10 +1,8 @@
 "use client"
+import { useState } from 'react';
 import { barImg, logo } from '@/assets';
-import Image from 'next/image';
-import Link from 'next/link';
 import AppLink from './AppLink';
 import AppImage from './AppImage';
-import { useState } from 'react';
 function Header() {
     const [toggle, setToggle] = useState(false)
     return (

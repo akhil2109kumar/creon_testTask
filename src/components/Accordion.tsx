@@ -1,7 +1,7 @@
 "use client"
 import React, { useMemo, useState } from 'react'
-import AppImage from './AppImage';
 import { StaticImageData } from 'next/image';
+import AppImage from './AppImage';
 
 interface AppAccordion{
     icon: StaticImageData | string;

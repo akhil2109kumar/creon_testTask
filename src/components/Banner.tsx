@@ -1,8 +1,6 @@
-import React, { useMemo } from 'react'
-import { mainBackgroundImg } from '@/assets'
+import React from 'react'
 
 import BackgroundImage from './BackgroundImage'
-// import { list } from "@vercel/blob";
 
 
 function Banner() {

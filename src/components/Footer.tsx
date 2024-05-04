@@ -1,4 +1,4 @@
-import { discord, niftablesLogo, telegram, twitter } from '@/assets'
+import { niftablesLogo } from '@/assets'
 import React from 'react'
 import AppImage from './AppImage'
 import AppMedia from './AppMedia'
